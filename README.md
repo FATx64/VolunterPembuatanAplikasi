@@ -95,6 +95,7 @@ Berikut daftar Volunter yang diterima:
 * Dean Alif Ahmad, [GitHub](https://github.com/deanalifahmad).
 * Dedy Setiawan, [LinkedIn](https://www.linkedin.com/in/dedystiawan/).
 * Denada Reskia Febrianti, [LinkedIn](https://www.linkedin.com/in/denada-reskia/).
+* Desi Sunyahni, [LinkedIn](https://www.linkedin.com/in/desi-sunyahni/).
 * Deva Ega Marinda, [LinkedIn](https://www.linkedin.com/in/devaem/).
 * Devaldi Caliesta Octadiani, [GitHub](https://github.com/devaldicaliesta).
 * Dewa Yudha, [Ladang Tekno](https://www.ladangtekno.com/p/contact.html).
@@ -165,10 +166,13 @@ Berikut daftar Volunter yang diterima:
 * Ghina Salma Susilo, [GitHub](https://github.com/Ghinasalma05/).
 * Ghiyas Ash-Shidiqie, [LinkedIn](https://www.linkedin.com/in/ghiyasash-shidiqie/).
 * Gilang Ramadhan, [LinkedIn](https://www.linkedin.com/in/gilang-adhan/).
+* Gisela Sanggaria, [GitHub](https://github.com/giselasanggaria).
 * Grace Dita Hutasoit, [LinkedIn](https://www.linkedin.com/in/grace-asmr/).
 
 ### H
 * Harris Kurniadi Sumbogo, [LinkedIn](https://www.linkedin.com/in/harris-sumbogo/).
+* Hanif Muhammad Irsyad, [LinkedIn](https://www.linkedin.com/in/hanifirsyad/).
+* Havizh As Haq, [Linkedin](https://www.linkedin.com/in/havizh-as-haq-398677222/).
 * Hendradito, [LinkedIn](https://www.linkedin.com/in/hendraditodwia/).
 * Henly Forbesly, [GitHub](https://github.com/henlyforbesly).
 
@@ -251,6 +255,7 @@ Berikut daftar Volunter yang diterima:
 * Muhamad Azis, [GitHub](https://github.com/muhamadAzis32/).
 * Muhamad Dendy Agustian, [LinkedIn](linkedin.com/in/dendimuhmd/).
 * Muhamad Dian Rahendra, [LinkedIn](https://www.linkedin.com/in/muanra217/).
+* Muhamad Fauzan, [LinkedIn](https://www.linkedin.com/in/muhamad-fauzan12/)
 * Muhamad Iksan, [LinkedIn](https://www.linkedin.com/in/muhamad-iksan-6a9a88232/).
 * Muhamad Irvan Dandung, [dandoeng.tech](https://dandoeng.tech/). 
 * Muhamad Qosim, [LinkedIn](https://www.linkedin.com/in/muhamad-qosim-042740216/).
